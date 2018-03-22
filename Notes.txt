@@ -23,5 +23,3 @@ Programming language.
 -ASP.NET
 -Microsoft SQL Server 2008 R2
 -------------------------------------------
-
-Welcome to devolper team.
